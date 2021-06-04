@@ -16,7 +16,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://www.ec
 ### echoAR Console
 6. Add each of the houseplants to your echoAR console.
 7. Copy the links of the QRImage links, and place them into the "findplantInfo" function in [PlantForm.jsx]. 
-8. Once the houseplant models are added, copy the short URL generated for each model and use them to replace the ```<Your [plant] short url here>``` in the "findplantInfo" function [PlantForm.jsx]
+8. Once the houseplant models are added, copy the short URL generated for each model and use them to replace the ```[shortUrl]``` in the "findplantInfo" function [PlantForm.jsx]
   * optional: add entry-IDs to replace ```<your [plant] entry id here>```
 9. Choose a plant to be your default and copy its QRImage link and shortURL into [index.html]
 
