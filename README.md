@@ -1,5 +1,5 @@
 # echoAR-Houseplant-Demo
-React demo with echoAR.  Answer a few short questions to find a houseplant match, learn some info, and receive a QR code to try it in AR in your home.
+React demo with echoAR.  Answer a few short questions to find a houseplant match, learn some info, and receive a QR code to see the plant in AR in your home!
 
 ## Register
 Don't have an API key? Make sure to register for FREE at [echoAR](https://www.echoar.xyz/).
