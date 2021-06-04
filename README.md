@@ -33,8 +33,8 @@ Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about
 Feel free to reach out at [support@echoAR.xyz](support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE).
 
 ## Screenshots
-![Demo Bonsai](./images/bonsai.jpg)
-![Demo Money Plant](./images/money.jpg)
+![Demo Bonsai](images/bonsai.JPG)
+![Demo Money Plant](images/money.JPG)
 
 Demo created by [Samia Menon](https://github.com/samia-mnn/). Check out PlanetDemo by [Dylan Dawk] for more web app information!
 
