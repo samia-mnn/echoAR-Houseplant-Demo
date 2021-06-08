@@ -18,12 +18,19 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://www.ec
 
 These are the models we used : 
 (Filename Author)
+  
 Anthurium.glb thesidekick
+  
 Chinese Money Plant.glb daniel
+  
 Umbrella palm tree.glb  Poly by Google
+  
 ZZ Plant.glb Jack Irwin Miller
+  
 Bonsai Tree.glb zacharyfrs
+  
 Orchid.glb Poly by Google
+  
 Snake Plant (Highest Resolution, Unbounded).glb legel
 
 8. Copy the links of the QRImage links, and place them into the "findplantInfo" function in [PlantForm.jsx]. 
