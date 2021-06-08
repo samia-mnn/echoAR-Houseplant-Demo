@@ -14,7 +14,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://www.ec
 5. Next, enter ```$ npm install express react react-dom``` to install relevant packages
 
 ### echoAR Console
-6. Add each of the houseplants to your echoAR console. Use the search function and type in <plant name> to find the model you would like to use for each plant.
+6. Add each of the houseplants to your echoAR console. Use the search function and type in the plant name to find the model you would like to use for each plant.
 
 These are the models we used : 
 (Filename Author)
